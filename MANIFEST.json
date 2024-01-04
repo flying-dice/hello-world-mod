@@ -1,0 +1,4 @@
+[{
+  "src": "hello-world.lua"
+"dest": "Scripts\Hooks\hello-world.lua"
+}]
